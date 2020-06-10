@@ -94,6 +94,12 @@ button {
   font-size: 22px;
 }
 
+button:hover {
+  background-color: #888;
+  transition: 350ms;
+  position: relative;
+}
+
 footer {
   height: 138px;
   background-color: #444;
